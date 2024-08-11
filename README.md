@@ -1,5 +1,6 @@
 # nApp
 
+Setup the Kubectl environment first
 
 ## Expose the application using a NodePort service:
 ```SHELL
